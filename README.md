@@ -1,20 +1,17 @@
-# 🏦 DADV MINI PROJECT  
-### Banking Transaction Analytics Model
-
-This is a mini project i made for DADV Subject in College.
+# DADV Mini Project  
+## Banking Transaction Analytics Model
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-This project focuses on analyzing banking transaction data using interactive visualizations.  
-It combines data processing and dashboarding to extract meaningful insights from financial records.
+This project focuses on analyzing banking transaction data through interactive visualizations. It integrates data processing and dashboard development to derive meaningful insights from financial records.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
-The dataset used contains customer transaction details including:
+The dataset includes customer transaction details such as:
 
 - Customer information  
 - Transaction types (Deposit, Withdrawal, Transfer)  
@@ -23,45 +20,44 @@ The dataset used contains customer transaction details including:
 
 ---
 
-## ⚙️ Tech Stack
+## Technology Stack
 
-- **Python**
-- **Pandas**
-- **Dash**
-- **Plotly**
-- **Seaborn**
+- Python  
+- Pandas  
+- Dash  
+- Plotly  
+- Seaborn  
 
 ---
 
-## 🚀 Features
+## Features
 
 - Interactive dashboard for financial analysis  
-- KPI metrics (Total, Credit, Debit, Net Balance)  
-- Multiple visualizations:
+- Key performance indicators (KPIs): Total Transactions, Credit, Debit, and Net Balance  
+- Visualizations including:
   - Credit vs Debit distribution  
   - Monthly transaction trends  
   - Transaction amount distribution  
   - Heatmap analysis  
-- Year-based filtering  
+- Year-based filtering for dynamic analysis  
 
 ---
 
-## 🧠 Data Processing
+## Data Processing
 
-- Cleaned missing values  
+- Handled missing values  
 - Converted date columns to datetime format  
-- Extracted year and month for analysis  
-- Organized data for visualization  
-
-
----
-
-## 🎯 Objective
-
-To understand transaction patterns and demonstrate how data visualization tools can be used to analyze financial datasets effectively.
+- Extracted year and month for time-based analysis  
+- Structured data for efficient visualization  
 
 ---
 
-## 🏁 Conclusion
+## Objective
 
-This project showcases the use of data analytics and visualization techniques to transform raw banking data into meaningful insights.
+The objective of this project is to analyze transaction patterns and demonstrate the effective use of data visualization tools in financial data analysis.
+
+---
+
+## Conclusion
+
+This project demonstrates how data analytics and visualization techniques can transform raw banking data into actionable insights.
